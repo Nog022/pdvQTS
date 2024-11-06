@@ -89,6 +89,12 @@
 			<artifactId>xstream</artifactId>
 			<version>1.4.19</version>
 		</dependency>
+		
+		<dependency>
+		    <groupId>org.junit.jupiter</groupId>
+		    <artifactId>junit-jupiter-engine</artifactId>
+		</dependency>
+
 		<!-- Dependência do container integrado -->
 		<dependency>
 			<groupId>org.springframework.boot</groupId>
